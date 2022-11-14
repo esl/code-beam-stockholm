@@ -1,31 +1,19 @@
-@mixin content-text
-    font-family: "Montserrat", sans-serif
-    color: #fff
-    font-size: 1.2em
-    font-weight: 300
-    line-height: 1.5em
-    margin: 0 0 1.5em 0
-    text-align: left
-
-
 .cover
     align-items: space-between
     background-size: cover
     background-repeat: no-repeat
     background-color: #000101
-    background-position: bottom
     color: #fff
     display: flex
     height: auto
     flex-wrap: wrap
-    padding: 8em 0 4em 0
+    padding: 8em 0 0 0
     justify-content: center
     width: 100%
-
     @media only screen and (max-width: 1112px)
         height: auto
         text-align: center
-    .logo
+.logo
         // min-height: 500px
         max-width: 500px
         width: 60%
@@ -50,24 +38,19 @@
         @media only screen and (max-width: 634px)
             padding: 2em 2em 0 2em
         .date
-            color: $primary-color-light
+            color: #e32dfd
             font-size: 1.8em
             font-weight: 300
             letter-spacing: .1em
             margin: 0 0 1.5em 0
             text-align: left
-            text-transform: capitalize
-
         p
-            @include content-text
-
-        ul
-            li
-                @include content-text
-                list-style-position: inside
-                margin: 0
-
-
+            color: #fff
+            font-size: 1.2em
+            font-weight: 300
+            line-height: 1.5em
+            margin: 0 0 1.5em 0
+            text-align: left
     .open
         font-size: 1.8em
         font-style: italic
