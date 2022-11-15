@@ -1,7 +1,7 @@
 .footer
     align-items: center
-    background-color: #000101
-    color: #12E7FE
+    background-color: $background-color-dark
+    color: #848484
     display: flex
     flex-flow: column
     justify-content: center
@@ -15,19 +15,22 @@
         margin: 1em 0
         a
             align-items: center
-            color: #12E7FE
+            color: #848484
             display: flex
             font-size: 1.8em
             height: 24px
             justify-content: center
             margin: .2em .5em
             width: 24px
+            svg
+                path
+                    fill: $primary-color
     hr
         border: none
-        border-top: .08em solid #12E7FE
+        border-top: .08em solid #848484
         margin-top: 1em
         width: 50%
     p
         color: #848484
         strong
-            color: #12E7FE
+            color: $primary-color-dark
