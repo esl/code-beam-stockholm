@@ -1,6 +1,6 @@
 ---
 name: Peer Stritzinger
-pic_url: ''
+pic_url: "/assets/images/28ba4fb86762ec94d54290fb1a982a45f8e8efb7.png"
 tagline: GRiSP Inventor, Distributed Computing in IoT and everywhere
 github: peerst
 twitter: peerstr
