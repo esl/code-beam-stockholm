@@ -1,5 +1,5 @@
 ---
-name: Sanne Kalkma
+name: Sanne Kalkman
 pic_url: "/assets/images/sanne-kalkma.jpeg"
 tagline: 'Developer / Teacher / Crafter '
 github: ''
