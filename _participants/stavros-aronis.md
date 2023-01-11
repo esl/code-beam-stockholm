@@ -1,7 +1,7 @@
 ---
 name: Stavros Aronis
 pic_url: "/assets/images/b80fb19db6dacdc17ae07ca0fc7cb8cb2c2ceeb1-2.jpeg"
-tagline: Developer and Trainer and Erlang Solutions
+tagline: Developer and Trainer at Erlang Solutions
 github: aronisstav
 twitter: "@Vahnatai"
 
