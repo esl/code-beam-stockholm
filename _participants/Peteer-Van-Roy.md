@@ -1,7 +1,7 @@
 ---
 name: 'Peter van Roy '
 pic_url: "/assets/images/peter-van-roy.jpg"
-tagline: DISTRIBUTED SYSTEMS GURU
+tagline: 'Distributed Systems Guru '
 github: petervanroy
 twitter: "@PeterLodewijk"
 
