@@ -18,8 +18,8 @@
 #  link: schedule
 - name: Speakers
   link: "keynotes"
-- name: Hybrid
-  link: "hybrid"
+- name: Mentoring
+  link: "mentoring"
 #- name: Trainers
 #  link: "trainers"
 #- name: Training
