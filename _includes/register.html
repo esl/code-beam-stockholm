@@ -1,22 +1,24 @@
 <div class="section register" id="register">
     <h2 class="title">REGISTER</h2>
     <hr/></br></br>
-    <div class="register-widget" id="eventbrite-widget-container-195908887757">&nbsp;</div>
+    <div id="eventbrite-widget-container-416821172347"></div>
 
+    <script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
 
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+    <script type="text/javascript">
+        var exampleCallback = function() {
+            console.log('Order complete!');
+        };
 
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
+        window.EBWidgets.createWidget({
+            // Required
+            widgetType: 'checkout',
+            eventId: '416821172347',
+            iframeContainerId: 'eventbrite-widget-container-416821172347',
 
-    window.EBWidgets.createWidget({
-        widgetType: 'checkout',
-        eventId: '416821172347',
-        modal: true,
-        modalTriggerElementId: 'eventbrite-widget-modal-trigger-416821172347',
-        onOrderComplete: exampleCallback
-    });
-</script>
+            // Optional
+            iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+            onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+        });
+    </script>
 </div>
