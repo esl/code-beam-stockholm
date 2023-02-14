@@ -3,7 +3,7 @@
 - name: Welcome
   link: "welcome"
 - name: Register
-# link: "register"
+  link: "register"
 # name: Newsletter
 #  link: "newsletter"
 #- name: Call for Tutorials
