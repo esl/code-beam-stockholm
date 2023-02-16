@@ -11,7 +11,7 @@ fields:
   type: tag_list
   default: []
   label: level
-  hidden: true
+  hidden: false
 - name: speakers
   type: list
   config:
