@@ -53,6 +53,7 @@ pages:
 - _talks/building-blocks-and-how-to-use-them-a-mongooseim-case-study.md
 - _talks/building-elixir-applications-for-global-audiences-or-an-audience-of-one.md
 - _talks/building-erlang-with-buck2.md
+- _talks/causal-consistent-reversible-debugging-for-erlang.md
 - _talks/clarity.md
 - _talks/comparing-elixir-and-python-when-working-with-simple-neural-networks.md
 - _talks/config.exs-is-simple-and-other-lies.md
