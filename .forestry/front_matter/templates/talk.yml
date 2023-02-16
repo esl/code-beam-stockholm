@@ -67,6 +67,7 @@ pages:
 - _talks/don-t-push-me-because-i-m-close-to-the-edge-metastability-and-you.md
 - _talks/elixir-update.md
 - _talks/elixir-webassembly-and-rust-the-ultimate-hybrid.md
+- _talks/evision-one-year-an-evolving-elixir-library-for-computer-vision-tasks.md
 - _talks/exercism-v3.md
 - _talks/exploring-elixir-project-re-compilation.md
 - _talks/fast-ip-address-matching-in-elixir-with-radix-trees-and-persistent_term.md
