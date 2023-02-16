@@ -3,7 +3,6 @@ audience: []
 tags:
 - machine learning
 - computer vision
-- neural network
 title: Evision One Year - An Evolving Elixir Library for Computer Vision Tasks
 speakers:
 - _participants/cocoa-xu.md
