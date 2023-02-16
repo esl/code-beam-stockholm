@@ -43,6 +43,7 @@ pages:
 - _talks/architectural-and-codewise-learnings-building-a-successful-elixir-application-1.md
 - _talks/automating-the-automator.md
 - _talks/barrel-a-decentralized-data-platform-to-take-back-the-control-of-your-data.md
+- _talks/beam-nifs-in-ziglang...for-elixir-and-erlang.md
 - _talks/better-data-access-with-composable-queries.md
 - _talks/bringing-opencv-to-the-elixir-world.md
 - _talks/build-animatronics-with-nerves.md
