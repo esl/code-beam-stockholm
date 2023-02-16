@@ -25,6 +25,11 @@ fields:
   type: tag_list
   default: []
   label: tags
+- name: talk_objectives
+  type: text
+  config:
+    required: false
+  label: Talk objectives
 pages:
 - _keynotes/code-homicide-what-software-developers-can-learn-from-offender-profiling.md
 - _keynotes/formal-verification-no-formal-reasoning.md
