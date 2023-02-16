@@ -1,6 +1,7 @@
 ---
 level:
-- Introductory and overview
+- Introductory
+- 'overview '
 tags: []
 title: Building Erlang with Buck2
 speakers:
