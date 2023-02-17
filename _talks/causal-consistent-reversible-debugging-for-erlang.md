@@ -1,6 +1,6 @@
 ---
 level:
-- Introductory and overview
+- sample
 tags:
 - tag
 title: Causal-consistent reversible debugging for Erlang
