@@ -1,6 +1,6 @@
 ---
 name: Evadne Wu
-pic_url: "/assets/images/evadne-wu_2-2.png"
+pic_url: "/assets/images/66949108612e8fa84ec30071086006ca871f95a1.png"
 tagline: Judge of Spawnfest 2021 / Winner of Spawnfest 2020 / Creator of Etso & Packmatic
 github: evadne
 twitter: evadne
