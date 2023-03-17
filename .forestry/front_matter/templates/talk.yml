@@ -107,6 +107,7 @@ pages:
 - _talks/refactoring-via-the-language-server-protocol.md
 - _talks/secure-end-to-end-messaging-in-elixir-and-others-using-ockam.md
 - _talks/sel4-and-beam-a-match-made-in-erlang.md
+- _talks/sonic-pi-beam-up-the-vj.md
 - _talks/tackling-technical-debt-at-adobe-a-story-which-started-at-frame.io.md
 - _talks/testing-asynchronous-otp.md
 - _talks/the-elixir-journey-convincing-enterprise-to-use-elixir.md
