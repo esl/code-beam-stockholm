@@ -1,11 +1,11 @@
 ---
-name: 'Peter van Roy '
+name: 'Peter Van Roy '
 pic_url: "/assets/images/peter-van-roy.jpg"
-tagline: 'Distributed Systems Guru '
+tagline: Université catholique de Louvain
 github: petervanroy
 twitter: "@PeterLodewijk"
 
 ---
-Peter Van Roy is a professor in the ICTEAM Institute at the Université Catholique de Louvain (Belgium). In his spare time, he coordinates the LightKone Horizon 2020 project which is working on an Erlang-based programming platform for general-purpose computing on edge networks based on CRDTs and hybrid gossip algorithms.
+Peter Van Roy is a professor in the ICTEAM Institute at the Université catholique de Louvain (Belgium). He has a long experience in programming languages, distributed systems, and general system design. He coordinated the LightKone Horizon 2020 project on Erlang-based systems for edge computing based on CRDTs and hybrid gossip algorithms. He is currently working on the ΔQSD system design paradigm with PNSol (UK), on computer-aided music composition based on constraint programming with IRCAM (France), and on edge computing based on Erlang and GRiSP with Stritzinger GmbH (Germany).
 
-He is the author of "Concepts, Techniques, and Models of Computer Programming" and of "Programming Paradigms for Dummies".
+He is the author of “Concepts, Techniques, and Models of Computer Programming” and of “Programming Paradigms for Dummies”.
