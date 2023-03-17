@@ -88,6 +88,7 @@ pages:
 - _talks/learn-you-some-pattern-matching-for-great-good.md
 - _talks/learning-about-supervisors-using-phoenix-liveview.md
 - _talks/lessons-learned-from-elixir-learning-paths.md
+- _talks/little-things-and-big-things-lessons-for-building-large-systems.md
 - _talks/love-your-crash-dumps.md
 - _talks/membrane-sfu-bringing-webrtc-to-elixir.md
 - _talks/micro-services-and-events-friends-or-foes.md
