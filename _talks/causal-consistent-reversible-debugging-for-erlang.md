@@ -1,8 +1,9 @@
 ---
 level:
-- sample
+- Introductory and overview
 tags:
-- tag
+- Reversible
+- Debugging
 title: Causal-consistent reversible debugging for Erlang
 speakers:
 - _participants/Ivan-Lanese.md
