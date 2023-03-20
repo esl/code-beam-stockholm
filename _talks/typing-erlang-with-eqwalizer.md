@@ -1,5 +1,6 @@
 ---
-level: []
+level:
+- Intermediate
 tags: []
 title: Typing Erlang with eqWAlizer
 speakers:
