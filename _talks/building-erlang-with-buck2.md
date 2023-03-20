@@ -14,6 +14,6 @@ Buck2 is Meta's next generation large-scale build tool used to build most code w
 
 In this talk we talk buck2, and the advantages it provides for us building millions of lines of Erlang code. We will talk about what type of projects can benefits from using buck2, and finally, we will also talk about how to make use of the rules in your own project.
 
-**AUDIENCE:**
+**Audience:**
 
 Maintainers and integrators of large Erlang code-bases, and people interested in large-scale build tools.
