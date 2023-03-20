@@ -1,6 +1,5 @@
 ---
-level:
-- beginner
+level: []
 tags:
 - Growth
 title: Learning about Supervisors using Phoenix LiveView
