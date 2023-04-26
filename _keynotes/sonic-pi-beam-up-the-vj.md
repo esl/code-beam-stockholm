@@ -1,5 +1,6 @@
 ---
-level: []
+level:
+- Introductory and Overview
 tags: []
 title: Sonic Pi - BEAM up the VJ
 speakers:
