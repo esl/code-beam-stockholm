@@ -1,7 +1,4 @@
 ---
-audience:
-- intermediate
-- proficient
 tags: []
 level:
 - Introductory and Overview
