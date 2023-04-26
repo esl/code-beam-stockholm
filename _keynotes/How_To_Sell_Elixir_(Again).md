@@ -3,6 +3,8 @@ audience:
 - intermediate
 - proficient
 tags: []
+level:
+- Introductory and Overview
 title: How to Sell Elixir (Again)
 
 speakers:
