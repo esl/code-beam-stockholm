@@ -1,6 +1,6 @@
 ---
 name: Kenneth Lundin
-pic_url: "/assets/images/Kenneth-Lundin.jpg"
+pic_url: "/assets/images/Kenneth-Lundin.jpeg"
 tagline: Heasd of the Erlang/OTP Team at Ericsson
 github: ''
 twitter: ''
