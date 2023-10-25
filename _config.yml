@@ -1,6 +1,6 @@
 title: Code BEAM Lite Stockholm
 description: > # this means to ignore newlines until "baseurl:"
-  Welcome to Code BEAM Lite Stockholm, a conference organised by Code Sync. Code BEAM Lite Stockholm is the premiere Erlang and Elixir conference in the Nordics, bringing the best speakers in the community together, for one day of first-rate BEAM-related talks.
+  Code BEAM Lite Stockholm is the premiere Erlang and Elixir conference in the Nordics - one day of first-rate BEAM-related talks.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://codebeamstockholm.com" # the base hostname & protocol for your site
 
