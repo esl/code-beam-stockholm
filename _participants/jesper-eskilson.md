@@ -1,6 +1,6 @@
 ---
 name: Jesper Eskilson
-pic_url: "/assets/images/esper-eskilson.jpg"
+pic_url: "/assets/images/jesper-eskilson.jpg"
 tagline: Erlang Community Lead and Lead Engineer at Klarna
 github: jesperes
 twitter: ""
