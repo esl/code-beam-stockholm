@@ -87,7 +87,7 @@ defaults:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyBf-F7nBzxi_73uI9QUxRQ-cNihYtlZ_AA
-map-text: 7A Posthuset
-map-text-location: Vasagatan 28, 111 20 Stockholm, Sweden
-map-lat: 59.3327580
-map-lng: 18.0585506
+map-text: 7A Odenplan
+map-text-location: Norrtullsgatan 6, 113 26 Stockholm, Sweden
+map-lat: 59.3423913
+map-lng: 18.0517103
