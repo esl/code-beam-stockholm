@@ -5,7 +5,7 @@ name: Observability & Debugging on the BEAM
 type: training
 trainers:
 - _participants/Brian-Underwood.md
-event_date: 14 May 2024, in person
+event_date: 14 May, in person
 title: "Secure Coding In Elixir
 
 ---
