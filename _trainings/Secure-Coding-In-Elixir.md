@@ -4,8 +4,7 @@ experience:
 name: Observability & Debugging on the BEAM
 type: training
 trainers:
-- _participants/natalia-chechina.md
-- _participants/francesco-cesarini-new.md
+- _participants/Brian-Underwood.md
 event_date: 14 May 2024, in person
 title: "Secure Coding In Elixir
 
