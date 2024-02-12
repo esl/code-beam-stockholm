@@ -1,5 +1,5 @@
 ---
-name: Lukas Larsson
+name: Vlad Luzin
 pic_url: "/assets/images/vlad-luzin.png"
 tagline: VP, Product & Engineering, Lynceus.ai
 github:
