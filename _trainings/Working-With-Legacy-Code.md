@@ -4,7 +4,7 @@ experience:
 name: Secure Coding In Erlang
 type: training
 trainers:
-- _participants/Robert-Virding.md
+- _participants/Dmytro-Lytovchenko.md
 event_date: 14 May 2024, in person
 title: "Working With Legacy Code"
 
