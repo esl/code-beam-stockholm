@@ -1,9 +1,9 @@
 ---
 name: Lukas Larsson
-pic_url: "/assets/images/lukas-larsson.jpg"
-tagline: Erlang/OTP team member
+pic_url: "/assets/images/vlad-luzin.png"
+tagline: VP, Product & Engineering, Lynceus.ai
 github:
 twitter: garazdawi
 
 ---
-Lukas first came in contact with Erlang 2004 while studying in Göteborg. He has been working with Erlang at Erlang Solutions for about 10 years in many different industries. Since 2010 he's been a consultant with the Erlang/OTP team at Ericsson AB, mainly working on the development of the Erlang VM.
+Vlad leads product management, engineering, and research departments at Lynceus.ai. Vlad has extensive experience in building and growing high-performance organizations delivering products across customer engagement, fintech, telecom, defense, and robotics industries. Most recently, Vlad was VP of Platform Services & AI at Verint, a global leader in customer engagement analytics. Prior to Verint, Vlad was Director of Product & Engineering at CME Group, having also worked at NEX Group and Samsung Research. Vlad holds an MBA in Finance from Hebrew University of Jerusalem and B.Sc. in Mathematics and Computer Science from Bar Ilan University, Israel.
