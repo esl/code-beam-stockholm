@@ -7,7 +7,8 @@ speakers:
 - _participants/ingela-andin.md
 
 ---
-In life we make many choices and this talk will give you some answers to the question why? Why become a programmer? Why work for Ericsson? Why work with functional programming? Why Open Source? Why do it for 20 years ? Would you also want to choose Erlang and in such case why? I can not give you all the answers but I can give you some reasons why!.
+In life we make many choices and this talk will give you some answers to the question why? Why become a programmer? Why work for Ericsson? Why work with functional programming? Why Open Source? Why do it for 20 years ? Would you also want to choose Erlang and in such case why? I can not give you all the answers but I can give you some reasons why!
+
 
 **Talk objectives:**
 
