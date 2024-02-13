@@ -1,6 +1,6 @@
 ---
 name: Dmytro Lytovchenko
-pic_url: "/assets/images/c9a9c19f7b24b03e0b88fdded23f99d10d5c2952.jpeg"
+pic_url: "/assets/images/dmytro-Lytovchenko.png"
 tagline: Working with what others deem too hard or impossible
 github: ''
 twitter: kvakvs
