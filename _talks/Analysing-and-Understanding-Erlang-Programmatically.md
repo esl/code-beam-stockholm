@@ -1,8 +1,7 @@
 ---
 audience:
 - Intermediate
-tags:
-title: Analysing and Understanding Erlang Programmatically
+title: "Analysing and Understanding Erlang Programmatically"
 speakers:
 - _participants/Cons-T-Ahs.md
 
