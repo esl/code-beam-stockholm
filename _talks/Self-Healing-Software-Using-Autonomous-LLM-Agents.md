@@ -1,5 +1,5 @@
 ---
-audience:
+level:
 - Intermediate
 tags:
 - GPT
