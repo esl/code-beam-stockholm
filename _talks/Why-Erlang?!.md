@@ -14,6 +14,6 @@ In life we make many choices and this talk will give you some answers to the que
 
 * To inspire everyone and especially encourage the minority of women in computer science jobs, to give some insights into Erlang/OTP history from my perspective, as a Erlang/OTP developer for Ericsson in general and then for the Erlang/OTP team, with focus of what happened after it became open source.
 
-**TARGET AUDIENCE:**
+**TARGET AUDIENC:**
 
 * Any one interested in Erlang/OTP and computer science
