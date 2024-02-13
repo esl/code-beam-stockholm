@@ -2,7 +2,7 @@
 audience:
 - Introductory and overview
 tags:
-title: Why Erlang ?!
+title: "Why Erlang?!"
 speakers:
 - _participants/ingela-andin.md
 
