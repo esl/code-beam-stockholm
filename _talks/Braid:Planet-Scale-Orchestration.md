@@ -7,7 +7,7 @@ tags:
 - Distributed
 title: Braid: Planet Scale Orchestration, Secure, Distributed Erlang Nodes from Cloud to Edge and IoT
 speakers:
-- _participants/.peer-stritzinger.md
+- _participants/peer-stritzinger.md
 
 ---
 “Braid,” a cutting-edge system designed to revolutionise the way we handle distributed computing and orchestration. Braid is a set of open-source Erlang/OTP applications that enables spawning and orchestration of containers, facilitating seamless and communication between them and their peers across various platforms from cloud to edge.
