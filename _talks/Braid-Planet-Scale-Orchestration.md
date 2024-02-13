@@ -5,7 +5,7 @@ tags:
 - Secure
 - Planet-Scale
 - Distributed
-title: Braid: Planet Scale Orchestration, Secure, Distributed Erlang Nodes from Cloud to Edge and IoT
+title: "Braid: Planet Scale Orchestration, Secure, Distributed Erlang Nodes from Cloud to Edge and IoT"
 speakers:
 - _participants/peer-stritzinger.md
 
