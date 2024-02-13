@@ -4,8 +4,8 @@
   link: "welcome"
 #- name: Register
 #  link: "register"
-- name: Waiting List
-  link: "newsletter"
+#- name: Waiting List
+#  link: "newsletter"
 #- name: Call for Tutorials
 #  link: "call-for-tutorials"
 #- name: All Recordings
@@ -16,8 +16,8 @@
 #  link: "video"
 #- name: Schedule
 #  link: schedule
-#- name: Speakers
-#  link: "keynotes"
+- name: Speakers
+  link: "keynotes"
 #- name: Mentoring
 #  link: "mentoring"
 - name: Trainers
