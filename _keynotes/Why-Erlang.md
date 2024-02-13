@@ -1,20 +1,19 @@
 ---
 audience:
-- Beginner
+- Introductory and overview
 tags:
-- communication
-- testing
-title: Formal Verification? No, Formal Reasoning!
+title: "Why Erlang?!"
 speakers:
-- _participants/marianne-bellotti.md
+- _participants/ingela-andin.md
 
 ---
-Formal verification is difficult to integrate with a real software development process. It takes time, the abstraction of Boolean logic are difficult to learn and the specifications are out of date as soon as the system is updated. But formal logic can be used to make my operation tasks easier and more efficient if instead of using booleans to prove systems correct you use them to reason about system behavior and test hypothesis.
+In life we make many choices and this talk will give you some answers to the question why? Why become a programmer? Why work for Ericsson? Why work with functional programming? Why Open Source? Why do it for 20 years ? Would you also want to choose Erlang and in such case why? I can not give you all the answers but I can give you some reasons why!
 
-OBJECTIVES
 
-An intro to different ways of applying the same techniques used in formal verification to improve testing, monitoring, and designing of systems
+**TALK OBJECTIVES:**
 
-AUDIENCE
+* To inspire everyone and especially encourage the minority of women in computer science jobs, to give some insights into Erlang/OTP history from my perspective, as a Erlang/OTP developer for Ericsson in general and then for the Erlang/OTP team, with focus of what happened after it became open source.
 
-Engineers who are curious about verification but find the learning curve intimidating
+**TARGET AUDIENC:**
+
+* Any one interested in Erlang/OTP and computer science
