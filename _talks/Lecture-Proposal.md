@@ -2,8 +2,8 @@
 level:
 - Introductory and overview
 tags:
-- Elixir,
-- Csharp#
+- Elixir
+- C#
 title: "Lecture Proposal. Migrating from C# to Elixir"
 speakers:
 - _participants/Samanta-de-Araujo.md
