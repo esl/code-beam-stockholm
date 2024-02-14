@@ -3,7 +3,7 @@ tags:
 level: Addvaced
 title: "BEAM's bright future with Gleam (and JavaScript?)"
 speakers:
-- _participants/peter-Saxton.md
+- _participants/Peter-Saxton.md
 
 ---
 Gleam is a language "running on the battle-tested Erlang virtual machine that powers planet-scale systems". Several of Gleam's design decisions were made to target the BEAM.
