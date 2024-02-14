@@ -1,6 +1,6 @@
 ---
 name: Samanta de Araújo
-pic_url: "/assets/images/sasa_juric.png"
+pic_url: "/assets/images/samanta-de-araujo.jpg"
 tagline: Software Engineering
 github: ''
 twitter: samanta_araujo
