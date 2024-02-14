@@ -1,6 +1,6 @@
 ---
 name: Peter Saxton
-pic_url: "/assets/images/peter-van-roy.jpg"
+pic_url: "/assets/images/peter-saxton"
 tagline: Northvolt
 github:
 twitter: CrowdHailer
