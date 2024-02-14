@@ -9,4 +9,4 @@ twitter: samanta_araujo
 12 charactersPassionate about technology, classic video games, travel, and electronics. Her first computer was a 386 with Windows 95.
 Identifies with the Gryffindor house. Prefers Star Wars over Matrix. Never had the patience to watch Star Trek.
 
-A black, lesbian woman born in Rio de Janeiro in 1987. Graduated in Systems Analysis and Development with an MBA in Software Engineering."
+A black, lesbian woman born in Rio de Janeiro in 1987. Graduated in Systems Analysis and Development with an MBA in Software Engineering.
