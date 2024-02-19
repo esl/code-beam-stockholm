@@ -1,6 +1,6 @@
 ---
 name: Thomas Arts
-pic_url: "/assets/images/thomas-arts.png"
+pic_url: "/assets/images/thomas-arts.jpg"
 tagline: Quviq, CTO
 github:
 twitter:
