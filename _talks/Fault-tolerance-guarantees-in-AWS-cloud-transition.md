@@ -7,6 +7,7 @@ tags:
 title: "Fault tolerance guarantees in AWS cloud transition"
 speakers:
 - _participants/thomas-arts.md
+- _participants/Martin-Sumner.md
 
 ---
 Recently a large deployment of the Riak noSQL database has been migrated from a dedicated data centre to the AWS cloud.
