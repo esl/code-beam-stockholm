@@ -1,6 +1,6 @@
 ---
 name: Martin Sumner
-pic_url: ""
+pic_url: "/assets/images/Martin-Sumner.jpg"
 tagline: Consultant, Airelogic
 github:
 twitter:
