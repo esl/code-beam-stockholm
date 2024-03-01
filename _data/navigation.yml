@@ -1,8 +1,8 @@
 #- name: Home
 #  link: "cover"
-- name: Welcome
-  link: "welcome"
-- name: Register
+#- name: Welcome
+#  link: "welcome"
+- name: TICKETS
   link: "register"
 #- name: Waiting List
 #  link: "newsletter"
@@ -20,8 +20,8 @@
   link: "keynotes"
 #- name: Mentoring
 #  link: "mentoring"
-- name: Trainers
-  link: "trainers"
+#- name: Trainers
+#  link: "trainers"
 - name: Training
   link: "training"
 #- name: Call for Talks
@@ -38,8 +38,8 @@
 #  link: "shop"
 #- name: Blog
 #  link: "blog"
-- name: Programme Committee
-  link: "members"
+#- name: Programme Committee
+#  link: "members"
 - name: Venue
   link: "venue"
 - name: Sponsors
