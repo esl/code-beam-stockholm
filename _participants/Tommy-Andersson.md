@@ -1,5 +1,5 @@
 ---
-name: "Tommy Andersson"
+name: Tommy Andersson
 pic_url: "/assets/images/Tommy.jpg"
 tagline: Line Manager for Erlang OTP
 github:
