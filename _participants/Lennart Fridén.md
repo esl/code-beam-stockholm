@@ -1,6 +1,6 @@
 ---
 name: Lennart Fridén
-pic_url: "/assets/images/andreas-loscher.jpg"
+pic_url: "assets/images/Lennart-Talarbild_2020-400x400.png"
 tagline: Developer of developers and systems
 github: 'DevL'
 twitter: ''
