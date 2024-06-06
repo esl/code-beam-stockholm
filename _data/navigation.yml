@@ -15,7 +15,7 @@
 #- name: Public videos
 #  link: "video"
 - name: Schedule
-  link: schedule
+  link: "schedule"
 - name: Speakers
   link: "keynotes"
 #- name: Mentoring
