@@ -5,6 +5,9 @@ image: assets/images/CB_STO_2024_1920x1080-4.jpg
 countdown: false
 timezone: Europe/Lisbon
 deadline: 2024-05-13 00:01
+modal: 
+  show: false
+  delay: 2000 
 ---
 {% include cover.html %}
 <!-- end of cover -->
@@ -68,3 +71,7 @@ deadline: 2024-05-13 00:01
 <!-- end of newsletter -->
 {% include contact.html %}
 <!-- end of contact -->
+
+{% if page.modal.show == true %}
+  {% include modal.html %}
+{% endif %}
