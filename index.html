@@ -2,17 +2,13 @@
 layout: default
 title: Code BEAM Lite Stockholm 2024
 image: assets/images/CB_STO_2024_1920x1080-4.jpg
-countdown: false
-timezone: Europe/Lisbon
-deadline: 2024-05-13 00:01
-modal: 
-  show: false
-  delay: 2000 
+
 ---
 {% include cover.html %}
 <!-- end of cover -->
-{%  if page.countdown == true  %}
-    {% include countdown.html timezone=page.timezone deadline=page.deadline %}
+<!-- start of coundown block -->
+{% if site.data.settings.homepage_settings.countdown.show %}
+  {% include countdown.html  %}
 {% endif %}
 <!-- end of coundown -->
 {% comment %}  {% include banner-2.html %}{% endcomment %}
@@ -67,11 +63,23 @@ modal:
 <!-- end of venue -->
 {% include sponsors.html %}
 <!-- end of sponsors -->
-{% comment %}{% include newsletter.html %}{% endcomment %}
+<!-- start of  testimonials  block -->
+{% if site.data.settings.homepage_settings.testimonials.show %}
+  {% include testimonials.html  %}
+{% endif %}
+<!-- end of  testimonials  block -->
+
+{% if site.data.settings.homepage_settings.gallery.show %}
+  {% include gallery-grid.html %}
+{% endif %}
+<!-- end of gallery-grid  -->
+{% comment %} {% include newsletter.html %} {% endcomment %}
 <!-- end of newsletter -->
 {% include contact.html %}
 <!-- end of contact -->
 
-{% if page.modal.show == true %}
+
+<!-- modal block -->
+{% if site.data.settings.homepage_settings.modal.show %}
   {% include modal.html %}
 {% endif %}
