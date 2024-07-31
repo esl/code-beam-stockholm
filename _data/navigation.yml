@@ -1,9 +1,9 @@
 #- name: Home
 #  link: "cover"
-#- name: Welcome
-#  link: "welcome"
-- name: TICKETS
-  link: "register"
+- name: About
+  link: "welcome"
+#- name: TICKETS
+#  link: "register"
 #- name: Waiting List
 #  link: "newsletter"
 #- name: Call for Tutorials
@@ -14,10 +14,10 @@
 #  link: "student"
 #- name: Public videos
 #  link: "video"
-- name: Schedule
-  link: "schedule"
-- name: Speakers
-  link: "keynotes"
+#- name: Schedule
+#  link: "schedule"
+#- name: Speakers
+#  link: "keynotes"
 #- name: Mentoring
 #  link: "mentoring"
 #- name: Trainers
