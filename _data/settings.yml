@@ -4,10 +4,10 @@ homepage_settings:
     timezone: Europe/Berlin
     deadline: 2024-10-14 12:00
   modal:
-    show: false
+    show: true
     delay: 5000
   testimonials:
-    show: false
+    show: true
     title: "Testimonials"
   gallery:
     show: false
