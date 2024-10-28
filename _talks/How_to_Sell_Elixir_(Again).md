@@ -6,7 +6,7 @@ tags: []
 title: How to Sell Elixir (Again)
 
 speakers:
-- _participants/evadne-wu-1.md
+
 
 ---
 We have celebrated 10 years of Elixir and also nearly 25 years of Erlang since the open source release in December 1998.
