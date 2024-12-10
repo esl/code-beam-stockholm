@@ -24,8 +24,8 @@
 #  link: "trainers"
 #- name: Training
 #  link: "training"
-#- name: Call for Talks
-#  link: "cft"
+- name: Call for Talks
+  link: "cft"
 #- name: Diversity
 #  link: "diversity"
 # name: Volunteer
@@ -38,8 +38,8 @@
 #  link: "shop"
 #- name: Blog
 #  link: "blog"
-#- name: Programme Committee
-#  link: "members"
+- name: Programme Committee
+  link: "members"
 - name: Venue
   link: "venue"
 - name: Sponsors
