@@ -1,6 +1,6 @@
 ---
 name: Johanna Larsson
-pic_url: "/assets/images/johanna-larsson.png"
+pic_url: "/assets/images/Johanna.png"
 tagline: Creator of HexDiff and ElixirEvents
 github: joladev
 twitter: joladev
