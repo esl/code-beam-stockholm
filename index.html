@@ -23,7 +23,11 @@ image: assets/images/CB_STO_2024_1920x1080-4.jpg
 <!-- end of keynotes -->
 {% comment %}{% include speakers.html %}{% endcomment %}
 <!-- end of speakers -->
-{% comment %}{% include register.html %}{% endcomment %}
+{% if site.data.settings.homepage_settings.tickets %}
+{% include tickets-block.html %}
+{% endif %}
+<!-- end of tickets -->
+{% comment %} {% include register.html %} {% endcomment %}
 <!-- end of register -->
 {% comment %} {% include recordings.html %} {% endcomment %}
 <!-- end of recordings -->
