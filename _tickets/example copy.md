@@ -1,16 +1,19 @@
 ---
-title: 'This is the ticket title'
-price: '1000$'
-discount: '15% off until dec 2025'
-description: 'Solis 39 urbanitas utuntur explicari adiungimus efficeretur delicata faciam errorem atomos adiungimus Albucius acri intelleges.'
-link: 'www.link.com'
+title: 'STANDARD TICKET'
+price: '4200 SEK'
+discount: '1-Days Conference Pass'
+description: "Get the full Code BEAM experience by joining us in Stockholm!"
+link: 'https://codebeamstockholm.com/#register'
 conditions:
-  - 'Confidet desideraturam excruciant malit firmitatem tempore seditiones distinctio placet'
+  - "The conference ticket doesn't include training sessions."
 ---
 
 ### FEATURES
 
-- Feature 01
-- Solis 39 urbanitas utuntur explicari adiungimus efficeretur delicata
-- Faciam errorem atomos adiungimus Albucius acri intelleges
-- Lorem ipsum dolor sit
+- Live access to all talks
+- Access to the conference app
+- Access to live Q&A sessions
+- Online networking via app
+- 3 months exclusive access to the recorded talks
+- Access to networking and exhibitors area at the venue
+- Lunch and beverages
