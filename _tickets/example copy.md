@@ -1,5 +1,5 @@
 ---
-title: 'STANDARD TICKET'
+title: 'STANsDARD TICKET'
 price: '4200 SEK'
 discount: '1-Days Conference Pass'
 description: "Get the full Code BEAM experience by joining us in Stockholm!"
@@ -16,4 +16,4 @@ conditions:
 - Online networking via app
 - 3 months exclusive access to the recorded talks
 - Access to networking and exhibitors area at the venue
-- Lunch and beverages
+- Lunch, coffee breaks and beverages

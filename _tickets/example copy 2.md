@@ -16,4 +16,4 @@ conditions:
 - Online networking via app
 - 3 months exclusive access to the recorded talks
 - Access to networking and exhibitors area at the venue
-- Lunch and beverages
+- Lunch, coffee breaks and beverages
