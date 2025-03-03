@@ -1,9 +1,11 @@
 ---
-name: Anton Satin
-pic_url: "/assets/images/anton-satin.png"
-tagline: Professional sceptic, Software Developer @ Mindvalley
-github: antonsatin
-twitter: ournextmove
+name: Björn Gustavsson
+pic_url: "/assets/images/bjorn-gustavsson.jpg"
+tagline: Erlang/OTP team at Ericsson
+github:
+twitter:
 
 ---
-Anton is a software developer living in Tallinn, Estonia. With 7 years in the industry, he worked with Ruby and JS before landing on Elixir. He loves making new things and improving user experience for people around him.
+Björn Gustavsson is a member of the Erlang/OTP team at Ericsson, and is the Björn in Bogdan/Björn’s Erlang Abstract Machine (BEAM).
+
+He joined the OTP team at the end of 1996, and did his first contribution to OTP that year. A few years later, he became the main developer responsible for the BEAM VM, and spent most his time at the OTP team contributing to the BEAM VM as well as to the Erlang compiler. He has also contributed to many other parts of the Erlang runtime system, such as the Just-In Time compiler (JIT).
