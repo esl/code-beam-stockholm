@@ -8,7 +8,7 @@ tags:
 
 title: Self Hosted Elixir: A Pi is all you need!
 speakers:
-- _participants/Sola-Aremu_Pelumi.md
+- _participants/Sola-Aremu.md
 ---
 Self-hosted Elixir applications offer control, cost efficiency, and privacy. This session outlines a modern workflow for deploying Elixir apps sustainably and securely, using Raspberry Pi as a server paired with Cloudflare and Coolify.
 
