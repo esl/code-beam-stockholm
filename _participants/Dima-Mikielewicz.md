@@ -1,6 +1,6 @@
 ---
 name: Dima Mikielewicz
-pic_url: "/assets/images/Dima-Mikielewicz.png"
+pic_url: "/assets/images/dima-mikielewicz.jpg"
 tagline: Software Engineer at Software Mansion
 github: ''
 twitter: ''
