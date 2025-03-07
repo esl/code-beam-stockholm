@@ -1,5 +1,5 @@
 ---
-name: Vitttoria Bitton
+name: Vittoria Bitton
 pic_url: "/assets/images/vittoria-bitton.jpg"
 tagline: Senior Software Engineer
 github:
