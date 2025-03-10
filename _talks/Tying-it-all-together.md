@@ -1,19 +1,27 @@
 ---
 audience:
-- intermediate
-tags: []
-title: TypeCheck - Effortless runtime type-checking
+- Introductory and overview
+tags:
+- Phoenix
+- SaaS
+- Development
+title: Tying it all together
 speakers:
-- _participants/wiebe-marten-wijnja.md
+- _participants/Lars-Wikman.md
 
 ---
-TypeCheck is an Elixir library that takes your existing Elixir types + specs and builds runtime type-checks, clear error messages, improved documentation and automated property-based 'spectests' on top of them! In this talk, Marten will explain how simple it is to use TypeCheck in your projects and why and when you'd want to. Also, he will give a small peek behind the curtain of the extensive not-so-simple metaprogramming required to make all of this happen ;-).
+Sometimes people ask for an example of an Elixir application. NervesHub is an open source application used in production at scale with a lively development history. It has been through a lot of change, a lot of evolution.
 
-  
+And it uses a lot of the Elixir ecosystem. Phoenix, Ecto, LiveView, Oban, thousands of WebSocket connections, an Erlang distribution cluster, a lot of PubSub, regular GenServers, PhoenixTest and much more.
+
+This talk will give a tour of the project, focusing on interesting things, changes that have simplified the system over time. Choices that have been made and hopefully the good reasons behind them.
+
 **Talk objectives:**
 
-* Explain to people the pros (and some cons) of using runtime type-checking to improve their codebase's code clarity, testability and resilience.
+Give people a real Phoenix example to reference, study and maybe help improve?
+
+NervesHub is not unique but tells many of the common Elixir stories very concretely. The removal of extra infrastructure that is possible thanks to the BEAM ecosystem and the power of LiveView in building a powerful SaaS product with limited means.
 
 **Target audience:**
 
-* The talk is geared towards people with intermediate Elixir experience who are interested in (static or dynamic) typing, improving their codebase's clarity and/or their approach to testing.
+Web developers, Phoenix enthusiasts, Elixir developers. But mostly anyone in the ecosystem.
