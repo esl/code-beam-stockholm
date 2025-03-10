@@ -1,6 +1,6 @@
 ---
 name: Sola-Aremu 'Pelumi
-pic_url: "/assets/images/Sola-Aremu_Pelumi.jpg"
+pic_url: "/assets/images/sola-aremu_pelumi.jpg"
 tagline: Vice President, Software Engineering, Bank of America
 github:
 twitter: Pelumi_SA
