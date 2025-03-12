@@ -24,8 +24,8 @@
 #  link: "trainers"
 #- name: Training
 #  link: "training"
-- name: Call for Talks
-  link: "cft"
+# name: Call for Talks
+#  link: "cft"
 - name: Support
   link: "diversity"
 # name: Volunteer
