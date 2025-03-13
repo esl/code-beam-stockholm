@@ -6,7 +6,7 @@ tags:
 - Self-Hosting
 - Elixir
 
-title: Self Hosted Elixir: A Pi is all you need!
+title: "Self Hosted Elixir: A Pi is all you need!"
 speakers:
 - _participants/Sola-Aremu.md
 ---
