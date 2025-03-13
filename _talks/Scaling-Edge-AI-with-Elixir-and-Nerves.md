@@ -7,7 +7,7 @@ tags:
 -Elixir
 title: Scaling Edge AI with Elixir and Nerves: Machine Learning on the Raspberry Pi and Hailo HAT
 speakers:
-- _participants/vittoria-bitton.md
+- _participants/Vittoria-Bitton.md
 - _participants/paulo-valente.md
 
 
