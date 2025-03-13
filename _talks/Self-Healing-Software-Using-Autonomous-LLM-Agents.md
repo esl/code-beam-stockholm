@@ -5,7 +5,7 @@ tags:
 - GPT
 - Hot code reloading
 - Self-Healing software
-title: Self-Healing Software Using Autonomous LLM Agents
+title: "Self-Healing Software Using Autonomous LLM Agents"
 speakers:
 - _participants/Vlad-Luzin.md
 
