@@ -1,26 +1,22 @@
 ---
 audience:
-- Advanced
+- Intermediate
 tags:
-- Elixir
+- IoT Elixir
 - Machine Learning
-- Nx
-title: Deep Dive in Nx Backends
+- Elixir
+title: Scaling Edge AI with Elixir and Nerves: Machine Learning on the Raspberry Pi and Hailo HAT.
 speakers:
 - _participants/paulo-valente.md
 - _participants/Vittoria-Bitton.md
 
 ---
-Elixir's Nx library implements its features through a configurable backend structure, in which inputs are dispatched to their respective implementations at runtime.
-
-In this talk, we're going to review Nx's Backends and how they play with performance and automatic differentiation.
-
-For this, we're going to study how Nx compiles and executes a given code sample and how using defn, Nx's numerical function definitions, can enable Axon (a deep learning library) to work.
+Join us in this discovery on how to leverage Elixir and Nerves to build efficient, scalable edge-device AI systems on Raspberry Pi with the Hailo HAT. We will start with a brief overview on Nx and Nerves. Then we will get into the context of edge computing aiming to scale signal processing applications. By the end of this talk, we'll have built a self-contained on-device data capture and processing pipeline solution.
 
 **Talk objectives:**
 
-The main objective of this talk is to shed some light in one of the more technical and internal aspects of Elixir's Nx. There are some articles here and there talking about this, but as part of the Nx team I hope to provide some more information about how the library works. This would also be one of the first talks on the subject.
+We hope to give the community a practical example and further insights into deploying machine learning models for real-time signal processing applications. In this overview, we expect the audience to better understand the challenges and trade-offs of edge computing, and walk away with actionable steps to accelerate your own ML projects on low-power, low-cost and high-performance hardware with Elixir!
 
 **Target audience:**
 
-Although the talk is mainly about an Elixir library, I think all BEAM users which have an interest in machine learning would be interested in it, especially since it's a direct product of the EEF Machine Learning Working Group. It can also be interesting for people which come from an ML background but don't know much about the BEAM.
+Elixir and Nerves enthusiasts, Machine Learning engineers and Embedded Systems developers.
