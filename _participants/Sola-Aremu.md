@@ -1,5 +1,5 @@
 ---
-name: Sola-Aremu 'Pelumi
+name: Sola-Aremu 'Pelumi'
 pic_url: "/assets/images/sola-aremu-pelumi.jpg"
 tagline: Vice President, Software Engineering, Bank of America
 github:
