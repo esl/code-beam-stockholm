@@ -1,5 +1,5 @@
 ---
-pic_url: /assets/images/rickard.jpg
+pic_url: /assets/images/rickard.jpeg
 name: Rickard Green
 tagline: Erlang/OTP Product Owner
 twitter:
