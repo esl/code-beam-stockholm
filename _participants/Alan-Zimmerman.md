@@ -1,6 +1,6 @@
 ---
 name: Alan Zimmerman
-pic_url: "/assets/images/erin_boeger.jpg"
+pic_url: "assets/images/alan-zimmerman.jpg"
 tagline: Meta
 github: ''
 twitter: ''
