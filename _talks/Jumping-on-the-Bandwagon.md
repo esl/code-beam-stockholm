@@ -6,7 +6,7 @@ tags:
 - community
 - evolution
 
-title: Jumping on the Bandwagon: How I ended up writing Gleam for a living
+title: "Jumping on the Bandwagon: How I ended up writing Gleam for a living"
 speakers:
 - _participants/Isaac-Harris-Holt.md
 ---
