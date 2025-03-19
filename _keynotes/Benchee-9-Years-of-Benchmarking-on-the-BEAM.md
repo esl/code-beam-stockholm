@@ -4,7 +4,7 @@ tags:
 - benchmarking
 - retrospective
 - benchee
-title: 'Benchee: 9 Years of Benchmarking on the BEAM'
+title: "Benchee: 9 Years of Benchmarking on the BEAM"
 speakers:
 - _participants/Tobias-Pfeiffer.md
 
