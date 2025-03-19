@@ -2,8 +2,6 @@
 #  link: "cover"
 - name: About
   link: "welcome"
-- name: Programme Committee
-  link: "members"
 - name: TICKETS
   link: "register"
 # name: 2025 Waiting List
@@ -44,5 +42,7 @@
   link: "venue"
 - name: Sponsors
   link: "sponsors"
+- name: Programme Committee
+  link: "members"
 - name: Contact
   link: "contact"
