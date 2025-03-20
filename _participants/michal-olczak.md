@@ -1,9 +1,9 @@
 ---
 pic_url: "/assets/images/michal-olczak.jpg"
-name: Michał Olczak
-tagline: Working at a bank can be fun too!
-twitter: m1halo
-github: m1halo
+name: Michal Olczak
+tagline: Head of Engineering
+twitter: 
+github:
 
 ---
-Team Lead / Software Engineer at OP Lab of the OP Financial Group. Engineer at heart, Michał likes to build sustainable innovations.
+Michal Olczak is an experienced engineering leader with a deep passion for scalable software architectures and innovative solutions. As Head of Engineering at In Parallel, he leads a cross-functional team building AI-driven operating models that enable real-time strategic execution and decision-making. Michal’s expertise spans distributed systems, Elixir, and agile transformations. He has a track record of solving complex technical challenges and delivering impactful products for both startups and established organizations (Nokia, OP financial group, etc). Michal is committed to fostering growth through technology and knowledge sharing in the developer community.
