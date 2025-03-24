@@ -1,8 +1,8 @@
 ---
-pic_url: "/assets/images/michal-olczak.jpg"
+pic_url: "/assets/images/michal-olczak.png"
 name: Michal Olczak
 tagline: Head of Engineering
-twitter: 
+twitter:
 github:
 
 ---
