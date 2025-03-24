@@ -1,5 +1,5 @@
 ---
 trainings:
-- training: _trainings/Working-With-Legacy-Code.md
-  start: 2024-05-14 07:00:00 +0000
-  end: 2024-05-14 15:00:00 +0000
+- training: _trainings/Secure-Coding-In-Erlang.md
+  start: 2025-06-03 09:00:00 +0000
+  end: 2025-06-03 14:00:00 +0000
