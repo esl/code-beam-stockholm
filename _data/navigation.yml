@@ -20,8 +20,8 @@
   link: "keynotes"
 #- name: Mentoring
 #  link: "mentoring"
-#- name: Trainers
-#  link: "trainers"
+- name: Trainers
+  link: "trainers"
 #- name: Training
 #  link: "training"
 # name: Call for Talks
