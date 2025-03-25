@@ -1,7 +1,7 @@
 ---
 name: Dániel	Szoboszlay
 pic_url: "/assets/images/daniel-szoboszlay.jpg"
-tagline: Juggling the data of Europe's biggest fintech unicorn
+tagline: Building a European cloud
 github:
 twitter: dszoboszlay
 
