@@ -5,7 +5,7 @@ tags:
 - Ai
 - agents
 - elixir
-title: Empowering Agentic Workflows: Elixir for Intelligent Decision-Making
+title: "Empowering Agentic Workflows: Elixir for Intelligent Decision-Making"
 speakers:
 - _participants/michal-olczak.md
 
