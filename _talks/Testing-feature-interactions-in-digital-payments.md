@@ -6,6 +6,7 @@ tags: []
 title: Testing feature interactions in digital payments
 speakers:
 - _participants/thomas-arts.md
+- _participants/adam.md
 
 ---
 Kivra is a company that allows users to get their official post in a digital mailbox. Invoices can also arrive in that mailbox and Kivra for a long time supports a feature to pay those invoices manually.
