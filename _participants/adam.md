@@ -1,6 +1,6 @@
 ---
 name: Adam Lindberg
-pic_url: ""
+pic_url: "assets/images/adamL.jpg"
 tagline: Software Engineer & Open Source Developer
 github: ''
 twitter: ''
