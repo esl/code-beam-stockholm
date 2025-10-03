@@ -17,17 +17,17 @@ image: assets/images/CBLSto2025.png
 <!-- end of welcome -->
 {% include banner-1.html %}
 <!-- end of banner-1  -->
-{% comment %} {% include travelling.html %} {% endcomment %}
+{% comment %} {% comment %} {% include travelling.html %} {% endcomment %}
 <!-- end of travelling -->
-{% include keynotes.html %}
+{% comment %} {% include keynotes.html %} {% endcomment %}
 <!-- end of keynotes -->
-{% include speakers.html %}
+ {% comment %} {% include speakers.html %} {% endcomment %}
 <!-- end of speakers -->
 {% if site.data.settings.homepage_settings.tickets %}
 {% include tickets-block.html %}
 {% endif %}
 <!-- end of tickets -->
-{% include register.html %}
+{% comment %}  {% include register.html %} {% endcomment %}
 <!-- end of register -->
 {% comment %} {% include recordings.html %} {% endcomment %}
 <!-- end of recordings -->
@@ -35,15 +35,15 @@ image: assets/images/CBLSto2025.png
 <!-- end of video -->
 {% include banner-4.html %}
 <!-- end of banner-4 -->
-{% include schedule.html %}
+{% comment %} % include schedule.html %} {% endcomment %}
 <!-- end of schedule -->
 {% comment %} {% include mentoring.html %} {% endcomment %}
 <!-- end of hybrid -->
 {% comment %} {% include lightningtalks.html %} {% endcomment %}
 <!-- end of lightningtalks -->
-{% include trainers.html %}
+{% comment %} {% include trainers.html %} {% endcomment %}
 <!-- end of trainers -->
-{% include training.html %}
+{% comment %} {% include training.html %} {% endcomment %}
 <!-- end of training -->
 {% include diversity.html %}
 <!-- end of diversity -->
@@ -53,7 +53,7 @@ image: assets/images/CBLSto2025.png
 <!-- end of volunteer -->
 {% comment %} {% include cft.html %} {% endcomment %}
 <!-- end of cft  -->
-{% include members.html %}
+{% comment %} {% include members.html %}{% endcomment %}
 <!-- end of members  -->
 {% comment %} {% include hotels.html %} {% endcomment %}
 <!-- end of hotels -->
@@ -79,7 +79,7 @@ image: assets/images/CBLSto2025.png
   {% include gallery-grid.html %}
 {% endif %}
 <!-- end of gallery-grid  -->
-{% comment %}{% include newsletter.html %}{% endcomment %}
+{% include newsletter.html %}
 <!-- end of newsletter -->
 {% include contact.html %}
 <!-- end of contact -->
