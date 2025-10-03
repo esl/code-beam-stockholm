@@ -1,6 +1,6 @@
 ---
 title: 'EARLY BIRD TICKET'
-price: '3500 SEK'
+price: '3700 SEK'
 discount: '1-Days Conference Pass'
 description: "Get the full Code BEAM experience by joining us in Stockholm!"
 link: 'https://codebeamstockholm.com/#register'

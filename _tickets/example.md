@@ -1,6 +1,6 @@
 ---
 title: 'LAST MINUTE TICKET'
-price: '4800 SEK'
+price: '5000 SEK'
 discount: '1-Days Conference Pass'
 description: "Get the full Code BEAM experience by joining us in Stockholm!"
 link: 'https://codebeamstockholm.com/#register'
