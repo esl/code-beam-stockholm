@@ -40,8 +40,8 @@
 #  link: "blog"
 - name: Venue
   link: "venue"
-# name: Sponsors
-#  link: "sponsors"
+- name: Sponsors
+  link: "sponsors"
 # name: Programme Committee
 #  link: "members"
 # name: Contact
