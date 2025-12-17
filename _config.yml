@@ -95,7 +95,7 @@ defaults:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyBf-F7nBzxi_73uI9QUxRQ-cNihYtlZ_AA
-map-text: Grönlandsgatan 8,
+map-text: Ericsson HQ (Open Box)
 map-text-location: Grönlandsgatan 8, Kista/Stockholm
-map-lat: 59.403535935367394 
-map-lng: 17.95370659763003
+map-lat: 59.40478092857049
+map-lng: 17.956209691654838
