@@ -23,17 +23,29 @@
     justify-content: center
     width: 100%
   .sponsors
-    a
-      margin: 1em
+    .sponsor-logo
       display: inline-block
-      height: auto
-      width: auto
+      margin: 1em
+      overflow: hidden
+
       img
-        max-width: 170px
-        max-height: 100px
-        object-fit: contain
         width: 100%
         height: 100%
+        object-fit: contain
+        display: block
+
+    .sponsor-logo--big
+      width: 289px
+      height: 170px
+
+    .sponsor-logo--medium
+      width: 221px
+      height: 130px
+
+    .sponsor-logo--small
+      width: 153px
+      height: 90px
+      
 // Style Pagination Owl Carousel
 .owl-theme
   .owl-controls
