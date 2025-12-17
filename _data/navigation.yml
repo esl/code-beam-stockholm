@@ -26,8 +26,8 @@
 #  link: "training"
 # name: Call for Talks
 #  link: "cft"
-- name: Support Programme
-  link: "diversity"
+# name: Support Programme
+#  link: "diversity"
 - name: Volunteer
   link: "volunteer"
 #- name: Hotels
