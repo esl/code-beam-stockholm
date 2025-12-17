@@ -95,7 +95,7 @@ defaults:
 # Google Map JS api
 # This is my api for this template
 key-api: AIzaSyBf-F7nBzxi_73uI9QUxRQ-cNihYtlZ_AA
-map-text: 7A Odenplan
-map-text-location: Norrtullsgatan 6, 113 26 Stockholm, Sweden
-map-lat: 59.34252302986197
-map-lng: 18.051692626812088
+map-text: Grönlandsgatan 8,
+map-text-location: Grönlandsgatan 8, Kista/Stockholm
+map-lat: 59.403535935367394 
+map-lng: 17.95370659763003
