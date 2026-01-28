@@ -1,9 +1,5 @@
 ---
 trainings:
-  - training: _trainings/Secure-Coding-In-Erlang.md
+  - training: _trainings/Secure-Coding-In-BEAM.md
     start: 2025-06-03T09:00:00 +0000
     end: 2025-06-03T14:00:00 +0000
-
-  - training: _trainings/BEAM-VM-Under-the-Hood.md
-    start: 2025-06-03T09:00:00 +0000
-    end: 2025-06-03T17:00:00 +0000
