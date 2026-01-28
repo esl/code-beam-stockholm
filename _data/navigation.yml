@@ -42,7 +42,7 @@
   link: "venue"
 - name: Sponsors
   link: "sponsors"
-# name: Programme Committee
-#  link: "members"
+- name: Programme Committee
+  link: "members"
 # name: Contact
 #  link: "contact"
