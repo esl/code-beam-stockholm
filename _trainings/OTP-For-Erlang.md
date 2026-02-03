@@ -3,7 +3,7 @@ experience:
 - Intermediate users of Erlang
 type: training
 trainers:
-- _participants/robert-virding.md
+- _participants/Robert-Virding.md
 title: OTP Training for Erlang Programmers
 venue:
 
