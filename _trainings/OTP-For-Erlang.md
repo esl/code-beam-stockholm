@@ -4,6 +4,7 @@ experience:
 type: training
 trainers:
 - _participants/Robert-Virding.md
+event_date: 19-21 May 2026, in person
 title: OTP Training for Erlang Programmers
 venue:
 
@@ -12,7 +13,6 @@ Learn how to scale your Erlang to billions. OTP is the middleware, libraries and
 
 **Format**
 3-day in-person training
-
 
 **Objectives**
 
