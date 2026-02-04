@@ -1,6 +1,6 @@
 ---
 name: Erik Stenman
-pic_url: "/assets/images/Erik_Stenman.jpg"
+pic_url: "/assets/images/Erik_Stenman.jpeg"
 tagline: Founder & Principal Consultant, Happi Hacking
 github: ''
 twitter: ''
