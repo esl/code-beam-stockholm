@@ -2,10 +2,10 @@
 #  link: "cover"
 - name: About
   link: "welcome"
-# name: TICKETS
+#- name: TICKETS
 #  link: "register"
-- name: 2026 Waiting List
-  link: "newsletter"
+#- name: 2026 Waiting List
+#  link: "newsletter"
 #- name: Call for Tutorials
 #  link: "call-for-tutorials"
 #- name: All Recordings
@@ -24,8 +24,8 @@
 #  link: "trainers"
 - name: Training
   link: "training"
-- name: Call for Talks
-  link: "cft"
+# name: Call for Talks
+# link: "cft"
 # name: Support Programme
 #  link: "diversity"
 - name: Volunteer
