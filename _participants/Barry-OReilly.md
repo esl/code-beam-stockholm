@@ -1,6 +1,6 @@
 ---
 pic_url: "/assets/images/Barry-OReillyv.jpg"
-name: Barry O'Reillyv
+name: Barry O'Reilly
 tagline: CEO/Founder at Black Tulip Technology
 github: ''
 twitter: ''

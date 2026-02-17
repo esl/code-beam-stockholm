@@ -1,6 +1,6 @@
 ---
 speakers:
-- _participants/Barry-OReillyv.md
+- _participants/Barry-OReilly.md
 title: Residues: Time, Change and Uncertainty in Software Architecture
 audience:
 - Everyone
