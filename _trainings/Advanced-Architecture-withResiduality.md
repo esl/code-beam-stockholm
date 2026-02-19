@@ -1,6 +1,6 @@
 ---
 trainers:
--_participants/Barry-OReilly.md
+- _participants/Barry-OReilly.md
 title: Advanced Architecture with Residuality
 experience:
 - Intermediate
