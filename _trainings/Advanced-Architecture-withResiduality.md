@@ -25,21 +25,21 @@ Intermediate
 
 **TARGET AUDIENCE**
 
-#This course is reserved exclusively for conference attendees.
+This course is reserved exclusively for conference attendees.
 
 This workshop is suitable for senior developers who want a head start into the world of architecture, for teams embarking on large, risk filled projects, and for seasoned architects seeking new techniques. It has also been successful in unting teams around a common definition of architecture.
 
 **AGENDA**
 
-##Day 1:
-- Concrete Complexity for Software Engineering
-- Residuality Theory
-- Modelling stress
-- Defining residues
+Day 1:
+* Concrete Complexity for Software Engineering
+* Residuality Theory
+* Modelling stress
+* Defining residues
 
 
-##Day 2
-- Producing a real world architecture.
-- Contagion analysis and component decisions
-- Incidence matrix techniques
-- Testing the architecture
+Day 2
+* Producing a real world architecture.
+* Contagion analysis and component decisions
+* Incidence matrix techniques
+* Testing the architecture
