@@ -40,4 +40,4 @@ Learn how to scale your Erlang to billions. OTP is the middleware, libraries and
 * Allows you to design and develop systems using the globally recognised Erlang approach
 
 **Target audiences**
-Ideally, you already know about Erlang Term Storage, concurrent Erlang, error handling and maps and records
+<p>Ideally, you already know about Erlang Term Storage, concurrent Erlang, error handling and maps and records</p>
