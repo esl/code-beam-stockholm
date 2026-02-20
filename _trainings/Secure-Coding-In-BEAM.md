@@ -13,6 +13,9 @@ Are your Erlang and Elixir applications as secure as they could be? Dive into th
 This one-day tutorial is tailored for intermediate Erlang/Elixir developers, testers, and DevOps professionals who want to enhance their skill set and bolster the security of their projects. Discover best practices, uncover potential pitfalls, and master techniques to safeguard your applications from harm.
 <br>
 
+**Format**
+
+1 day in-person training
 
 **During this training session you will learn**
 * about secure coding recommendations for programmers on the BEAM virtual machine

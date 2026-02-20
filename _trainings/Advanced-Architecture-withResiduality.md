@@ -19,9 +19,10 @@ Residuality theory is a revolutionary new theory of software design that aims to
 
 Intermediate
 
-**COURSE DURATION**
+**Format**
 
-2 days
+3 days in-person training
+
 
 **TARGET AUDIENCE**
 
