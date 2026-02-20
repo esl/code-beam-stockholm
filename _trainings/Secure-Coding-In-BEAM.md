@@ -8,6 +8,9 @@ trainers:
 event_date: 22 May 2026, in person
 title: "Secure Coding in BEAM"
 published: true
+venue: IOFFICE Business Center
+Drottninggatan 32, floor 8/reception
+111 51 Stockholm
 ---
 Are your Erlang and Elixir applications as secure as they could be? Dive into the world of secure coding on BEAM with Erlang’s co-creator Robert Virding to fortify your understanding of the BEAM platform’s vulnerabilities, attacks, and defences.
 This one-day tutorial is tailored for intermediate Erlang/Elixir developers, testers, and DevOps professionals who want to enhance their skill set and bolster the security of their projects. Discover best practices, uncover potential pitfalls, and master techniques to safeguard your applications from harm.
