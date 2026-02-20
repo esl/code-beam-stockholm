@@ -16,28 +16,28 @@ Learn how to scale your Erlang to billions. OTP is the middleware, libraries and
 
 **Objectives**
 
--Gain an in-depth understanding of scaling Erlang systems to handle large-scale applications and data volumes effectively.
--Master the concepts of OTP as the middleware, libraries, and tools used for designing and architecting Erlang systems.
--Develop proficiency in implementing process design patterns to design fault-tolerant and resilient Erlang systems.
--Acquire skills in designing and structuring Erlang applications using OTP applications for better organization and maintainability.
--Develop the ability to architect Erlang systems that are scalable, fault-tolerant, and well-structured, capable of handling billions of transactions.
--Covers the following topics
+* Gain an in-depth understanding of scaling Erlang systems to handle large-scale applications and data volumes effectively.
+* Master the concepts of OTP as the middleware, libraries, and tools used for designing and architecting Erlang systems.
+* Develop proficiency in implementing process design patterns to design fault-tolerant and resilient Erlang systems.
+* Acquire skills in designing and structuring Erlang applications using OTP applications for better organization and maintainability.
+* Develop the ability to architect Erlang systems that are scalable, fault-tolerant, and well-structured, capable of handling billions of transactions.
+* Covers the following topics
 
 **Introduction**
--Behaviours
--Generic Servers
--State Machines
--Supervisors
--Event Handlers
--Applications
--System Architecture Support Libraries
--System Principles
+* Behaviours
+* Generic Servers
+* State Machines
+* Supervisors
+* Event Handlers
+* Applications
+* System Architecture Support Libraries
+* System Principles
 
 **Why you should attend this course**
--Helps you get over the hurdle of efficiently learning how to build systems with OTP
--Allows you to avoid the pitfalls and borderline cases handled in its libraries
--A cost-effective approach to increasing productivity whilst reducing mistakes
--Allows you to design and develop systems using the globally recognised Erlang approach
+* Helps you get over the hurdle of efficiently learning how to build systems with OTP
+* Allows you to avoid the pitfalls and borderline cases handled in its libraries
+* A cost-effective approach to increasing productivity whilst reducing mistakes
+* Allows you to design and develop systems using the globally recognised Erlang approach
 
 **Target audience:**
 Ideally, you already know about Erlang Term Storage, concurrent Erlang, error handling and maps and records
