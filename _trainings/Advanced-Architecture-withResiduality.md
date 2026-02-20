@@ -21,7 +21,7 @@ Intermediate
 
 **Format**
 
-3 days in-person training
+2 days in-person training
 
 
 **TARGET AUDIENCE**
