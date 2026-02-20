@@ -24,4 +24,4 @@ This one-day tutorial is tailored for intermediate Erlang/Elixir developers, tes
 * Basic familiarity with the BEAM
 
 **Target audience**
-* Intermediate Erlang/Elixir developers, testers and devops working with BEAM projects
+*Intermediate Erlang/Elixir developers, testers and devops working with BEAM projects
