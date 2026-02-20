@@ -11,9 +11,10 @@ published: true
 Residuality theory is a revolutionary new theory of software design that aims to make it easier to design software systems for complex business environments. Residuality theory models software systems as interconnected residues - an alternative to component and process modeling that uses applied complexity science to make managing uncertainty a fundamental part of the design process.
 
 **This is what you will learn**
-*This workshop teaches advanced, cutting edge techniques based on ongoing research that are designed to identify and decrease risk, improve confidence in decision making and protect your architecture when the domain is characterized by uncertainty.
 
-*The workshop introduces ideas on the philosophy of architecture, forcing participants to think outside of the technology and relate decision making to markets, culture, economic and societal concerns. It teaches practical techniques in stressor analysis and the use of matrices to make component decisions and gives participants the chance to work with these techniques in labs and groups.
+This workshop teaches advanced, cutting edge techniques based on ongoing research that are designed to identify and decrease risk, improve confidence in decision making and protect your architecture when the domain is characterized by uncertainty.
+
+The workshop introduces ideas on the philosophy of architecture, forcing participants to think outside of the technology and relate decision making to markets, culture, economic and societal concerns. It teaches practical techniques in stressor analysis and the use of matrices to make component decisions and gives participants the chance to work with these techniques in labs and groups.
 
 **Format**
 
