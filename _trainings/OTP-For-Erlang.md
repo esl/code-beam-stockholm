@@ -10,9 +10,10 @@ venue:
 
 ---
 Learn how to scale your Erlang to billions. OTP is the middleware, libraries and tools used to design and architect Erlang systems. The training covers the main principles, including process design patterns, supervisors, applications and release handling. It will give you the ability to develop and architect an Erlang systems.
+<br>
 
 **Format**
-3-day in-person training
+* 3-day in-person training
 
 **Objectives**
 
@@ -39,5 +40,5 @@ Learn how to scale your Erlang to billions. OTP is the middleware, libraries and
 * A cost-effective approach to increasing productivity whilst reducing mistakes
 * Allows you to design and develop systems using the globally recognised Erlang approach
 
-**Target audience:**
+**Target audience**
 Ideally, you already know about Erlang Term Storage, concurrent Erlang, error handling and maps and records
