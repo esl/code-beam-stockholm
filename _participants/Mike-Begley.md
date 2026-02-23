@@ -1,5 +1,5 @@
 ---
-name: Mike Begley
+name: Michael Begley
 pic_url: "/assets/images/Mike-Begley.jpeg"
 tagline: Head of Product Line RAN Compute at Ericsson
 linkedin: /in/michael-begley-1339411
