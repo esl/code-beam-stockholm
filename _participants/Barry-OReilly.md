@@ -2,7 +2,7 @@
 pic_url: "/assets/images/Barry-OReillyv.jpg"
 name: Barry O'Reilly
 tagline: CEO/Founder at Black Tulip Technology
-
+linkedin: /in/barry-o-reilly-b924657/
 published: true
 
 ---
