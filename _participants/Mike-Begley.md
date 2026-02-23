@@ -2,8 +2,8 @@
 name: Mike Begley
 pic_url: "/assets/images/Mike-Begley.jpeg"
 tagline: Head of Product Line RAN Compute at Ericsson
-github: ''
-twitter: ''
+linkedin: /in/michael-begley-1339411
+
 
 ---
 With more than 25 years of leadership positions, product management and working with product development in the telecommunications industry, I have accumulated extensive experience in managing business and product strategies, cradle-to-grave product lifecycles, market demand analysis, developing business cases, requirement definition, system design, sponsorship of large R&D projects, product introduction, supply chain definition, go-to-market and customer relationship management. My experience covers both software and hardware development.
