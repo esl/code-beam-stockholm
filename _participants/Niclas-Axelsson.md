@@ -1,6 +1,6 @@
 ---
 name: Niclas Axelsson
-pic_url: "/assets/images/iclas-axelsson.jpg"
+pic_url: "/assets/images/niclas-axelsson.jpg"
 tagline: Erlang developer, Burbas Consulting
 github: novablog
 twitter: ''
