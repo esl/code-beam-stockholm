@@ -4,7 +4,7 @@ audience:
 tags: []
 title: Break it yourself
 speakers:
-- _participants/Steinar-Eliassen.md
+- _participants/Alexander-Kmoch.md
 - _participants/ingela-andin.md
 
 
