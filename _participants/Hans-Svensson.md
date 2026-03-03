@@ -1,9 +1,9 @@
 ---
-name: Jesper Eskilson
-pic_url: "/assets/images/jesper-eskilson.jpg"
-tagline: Erlang Community Lead and Lead Engineer at Klarna
-github: jesperes
+name: Hans Svensson
+pic_url: "/assets/images/hans-svensson.jpg"
+tagline: Quviq AB - Quickcheck Expert
+github: ''
 twitter: ""
 
 ---
-Jesper has written Erlang code since the late 90s, but spent many years working at IAR Systems writing Eclipse plugins for a C/C++ IDE while playing around with Erlang in his spare time. He joined Klarna in 2018 and got the opportunity to write Erlang code professionally. In 2020, he purged the venerable Kred code base from 12k Dialyzer errors, and has since 2019 been the Erlang Community Lead at Klarna, working with Klarna engineering teams to spread the usage and knowledge of Erlang at Klarna.
+Hans Svensson has over 20 years of experience working with Erlang and the Erlang/OTP ecosystem. He holds a PhD in Computer Science, with a dissertation on Verification of Distributed Erlang Programs using Testing, Model Checking and Theorem Proving. For the past 15 years, he has worked at Quviq AB as a QuickCheck expert, helping teams apply property-based testing to real-world systems. His work spans a wide range of industries including telecom, automotive, cryptography, databases, cloud storage, and power grid systems. Hans focuses on using rigorous testing techniques to find subtle, security-relevant bugs early—before they become vulnerabilities in production systems.

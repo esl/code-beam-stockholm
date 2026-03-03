@@ -4,6 +4,7 @@ pic_url: "/assets/images/ingela.png"
 tagline: Senior Erlang/OTP core developer
 github: IngelaAndin
 twitter: "@IngelaAndin"
+linkedin: ingela-andin-66014b1
 
 ---
 I studied Computer Science at Uppsala University. I worked as an Erlang Consultant and Erlang/OTP educator during my first years
