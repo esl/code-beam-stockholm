@@ -6,7 +6,7 @@ tags:
 - Resilient
 title: Web Apps in Erlang Are Actually Simple
 speakers:
-- _participants/Daniel-Widgred.md
+- _participants/Daniel-Widgren.md
 - _participants/Niclas-Axelsson.md
 
 
