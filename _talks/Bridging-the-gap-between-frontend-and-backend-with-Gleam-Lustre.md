@@ -5,7 +5,7 @@ tags:
 - Multitarget
 - isomorphic framework
 
-title: High Throughput Data Processing with GenStage
+title: Bridging the gap between frontend and backend with Gleam & Lustre
 speakers:
 - _participants/Steinar-Eliassen.md
 
