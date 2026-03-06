@@ -3,7 +3,7 @@ audience:
 - intermediate
 - proficient
 tags: geospatial, web
-title: From STAC APIs to Interactive Maps: Building a Sustainable Geospatial Stack with Elixir
+title: 'From STAC APIs to Interactive Maps: Building a Sustainable Geospatial Stack with Elixir'
 speakers:
 - _participants/Alexander-Kmoch.md
 
