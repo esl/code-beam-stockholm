@@ -5,7 +5,8 @@ audience:
 tags: geospatial, web
 title: From STAC APIs to Interactive Maps: Building a Sustainable Geospatial Stack with Elixir
 speakers:
-- _participants/Alexader-Kmoch.md
+- _participants/Alexander-Kmoch.md
+
 ---
 In geoinformatics, the standard toolkit leans heavily on Python. But for building scalable and maintainable web apps and services for environmental data we desired a better mix of productivity and reliability. At our lab in Tartu, we have embraced Elixir and Phoenix to build the core infrastructure for our geospatial data cataloguing and mapping needs. Our current work centres on a datacube portal and a STAC API implementation designed to provide seamless access to many large spatial datasets. By leveraging Phoenix LiveView and MapLibre, we have built an interactive map visualisation platform that reduces the complexity of front-end and backend for our small dev team. As we started to feel more comfortable with Elixir, we also started with orchestration, managing hundreds of map layers through established software GeoServer via our open-source geoserver_config_ex library. We also elaborate on our choice and path towards Elixir for our generally Python-dominated domain.
 
