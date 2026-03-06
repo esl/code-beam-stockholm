@@ -5,7 +5,7 @@ tags:
 - complexity
 - architecture
 
-title: Residues: Time, Change and Uncertainty in Software Architecture
+title: Break it yourself
 speakers:
 - _participants/ingela-andin.md
 - _participants/Hans-Svensson.md
