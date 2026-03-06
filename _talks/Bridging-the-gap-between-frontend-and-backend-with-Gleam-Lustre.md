@@ -5,7 +5,7 @@ tags:
 - Multitarget
 - isomorphic framework
 
-title: Bridging the gap between frontend and backend with Gleam & Lustre
+title: "Bridging the Gap between Frontend and Backend with Gleam & Lustre"
 speakers:
 - _participants/Steinar-Eliassen.md
 
