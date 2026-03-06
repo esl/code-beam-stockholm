@@ -5,7 +5,7 @@ tags:
 - complexity
 - architecture
 
-title: Break it yourself
+title: "Break It Yourself"
 speakers:
 - _participants/ingela-andin.md
 - _participants/Hans-Svensson.md
