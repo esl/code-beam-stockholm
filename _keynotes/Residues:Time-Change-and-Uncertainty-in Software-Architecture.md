@@ -4,7 +4,7 @@ tags:
 - Residuality
 - complexity
 - architecture
-title: Residues: Time, Change and Uncertainty in Software Architecture
+title: "Residues: Time, Change and Uncertainty in Software Architecture"
 speakers:
 - _participants/Barry-OReilly.md
 ---
