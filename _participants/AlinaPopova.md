@@ -1,7 +1,7 @@
 ---
 name: Alina Popova
 pic_url: "/assets/images/alina-popova.png"
-tagline: Exante, backend developerv
+tagline: Exante, backend developer
 github: ''
 twitter: ''
 
