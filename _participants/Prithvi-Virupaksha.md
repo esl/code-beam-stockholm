@@ -1,5 +1,5 @@
 ---
-pic_url: "/assets/images/michal-olczak.png"
+pic_url: "/assets/images/prithvi-virupaksha.png"
 name: Prithvi Virupaksha
 tagline: Senior Backend Engineer
 twitter: ''
