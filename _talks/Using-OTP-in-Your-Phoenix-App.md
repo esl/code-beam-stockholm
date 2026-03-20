@@ -7,7 +7,7 @@ tags:
 - Business-Logic
 title: Using OTP in Your Phoenix App
 speakers:
-- _participants/tonci-galic.md
+- _participants/Prithvi-Virupaksha.md
 
 ---
 My talk is a case study of a refactor that improved memory usage, performance, and reliability in a large Phoenix app. I think this makes for an interesting talk because we got to apply OTP patterns inside a Phoenix application in a very practical, real-world way.
