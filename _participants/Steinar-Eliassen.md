@@ -4,6 +4,7 @@ name: Steinar Eliassen
 linkedin:
 bluesky:
 github:
+tagline: Senior Developer at Entur
 published: true
 
 ---
