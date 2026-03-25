@@ -2,8 +2,9 @@
 name: Niclas Axelsson
 pic_url: "/assets/images/niclas-axelsson.jpg"
 tagline: Erlang developer, Burbas Consulting
-github: novablog
+github: burbas
 twitter: ''
+likedin: burbas
 
 ---
 Niclas Axelsson is an Erlang engineer with deep practical experience in building reliable, concurrent systems on the BEAM. He cares about making Erlang web development feel as straightforward and productive as it does in Elixir or Python—clean tooling, clear conventions, and a developer experience that helps you ship fast without sacrificing robustness.
