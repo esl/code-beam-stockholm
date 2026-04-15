@@ -1,6 +1,6 @@
 ---
 name: Richard Carlsson
-pic_url: 'assets/images/Richard_Carlsson.jpg'
+pic_url: 'assets/images/Richard Carlsson.jpg'
 tagline: Senior software engineer at Kivra
 github: ''
 twitter: ''
