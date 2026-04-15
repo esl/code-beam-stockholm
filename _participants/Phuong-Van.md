@@ -1,6 +1,6 @@
 ---
 name: Phuong Van
-pic_url: "/assets/images/phuong-van.jpg"
+pic_url: "/assets/images/Phoung-Van.jpg"
 tagline: Developer at Erlang Solutions, the one in pink dress!
 github: ''
 twitter: PhuongV_neko
