@@ -6,7 +6,7 @@ tags:
 - async_stream
 - concurrency
 
-title: A safer Elixir
+title: Going CPU bound
 speakers:
 - _participants/David-Klemenc.md
 
