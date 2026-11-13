@@ -1,4 +1,6 @@
 ---
+noindex: true
+sitemap: false
 name: Vittoria Bitton
 pic_url: "/assets/images/vittoria-bitton.jpg"
 tagline: Senior Software Engineer
